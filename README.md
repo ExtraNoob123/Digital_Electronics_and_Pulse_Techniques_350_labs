@@ -1,1 +1,3 @@
 # Digital_Electronics_and_Pulse_Techniques_350_labs
+
+Fall 2022
